@@ -1,6 +1,7 @@
-## Hola soy Jose Burguillos 👋
+# 👋 Hola, soy José Burguillos
 
-Desarrollador web enfocado en crear interfaces modernas, funcionales y con buena experiencia de usuario.
+Desarrollador web enfocado en crear interfaces modernas, funcionales y con buena experiencia de usuario.  
+Actualmente también estoy comenzando a explorar el mundo de la **Inteligencia Artificial**.
 
 🌐 Portfolio: https://joseburguillos.vercel.app
 
@@ -10,6 +11,7 @@ Desarrollador web enfocado en crear interfaces modernas, funcionales y con buena
 
 - 💻 Apasionado del desarrollo web
 - 🎯 Enfocado en crear proyectos limpios y eficientes
+- 🤖 Interesado en el mundo de la Inteligencia Artificial
 - 📚 En constante aprendizaje de nuevas tecnologías
 - ⚡ Me gusta transformar ideas en productos reales
 
@@ -22,6 +24,11 @@ Desarrollador web enfocado en crear interfaces modernas, funcionales y con buena
 - CSS3 / TailwindCSS
 - JavaScript (ES6+)
 - React
+
+### Explorando ahora
+- 🧠 Fundamentos de Inteligencia Artificial
+- 🤖 Modelos de lenguaje (LLMs)
+- 📊 Introducción a Machine Learning
 
 ### Herramientas
 - Git & GitHub
@@ -40,13 +47,15 @@ Mi sitio web donde muestro mis proyectos y habilidades.
 
 ---
 
-## 📈 Objetivo actual
+## 🎯 Objetivo actual
 
-Seguir mejorando como desarrollador frontend, profundizando en:
+Seguir creciendo como desarrollador frontend mientras me introduzco en el mundo de la **Inteligencia Artificial**, combinando ambas áreas para construir proyectos más inteligentes e innovadores.
+
+Enfoques actuales:
 - Arquitectura de componentes
 - Buenas prácticas de código
 - Optimización de rendimiento
-- Accesibilidad web
+- Bases de IA aplicada al desarrollo web
 
 ---
 
@@ -60,4 +69,4 @@ Seguir mejorando como desarrollador frontend, profundizando en:
 
 ## ⚡ Frase personal
 
-> “El buen código no solo funciona, también se entiende.”
+> “No solo quiero construir interfaces, quiero construir sistemas inteligentes.”
