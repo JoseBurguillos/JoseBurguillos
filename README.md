@@ -1,16 +1,63 @@
-## Hi there 👋
+## Hola soy Jose Burguillos 👋
 
-<!--
-**JoseBurguillos/JoseBurguillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web enfocado en crear interfaces modernas, funcionales y con buena experiencia de usuario.
 
-Here are some ideas to get you started:
+🌐 Portfolio: https://joseburguillos.vercel.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+- 💻 Apasionado del desarrollo web
+- 🎯 Enfocado en crear proyectos limpios y eficientes
+- 📚 En constante aprendizaje de nuevas tecnologías
+- ⚡ Me gusta transformar ideas en productos reales
+
+---
+
+## 🛠️ Tecnologías
+
+### Frontend
+- HTML5
+- CSS3 / TailwindCSS
+- JavaScript (ES6+)
+- React
+
+### Herramientas
+- Git & GitHub
+- Vite
+- Vercel
+- VS Code
+
+---
+
+## 📌 Proyectos destacados
+
+### 🌐 Portfolio personal
+Mi sitio web donde muestro mis proyectos y habilidades.
+
+🔗 https://joseburguillos.vercel.app
+
+---
+
+## 📈 Objetivo actual
+
+Seguir mejorando como desarrollador frontend, profundizando en:
+- Arquitectura de componentes
+- Buenas prácticas de código
+- Optimización de rendimiento
+- Accesibilidad web
+
+---
+
+## 📫 Contacto
+
+- 🌐 Portfolio: https://joseburguillos.vercel.app
+- 💼 LinkedIn: (añade tu enlace aquí)
+- 📧 Email: (tu correo aquí)
+
+---
+
+## ⚡ Frase personal
+
+> “El buen código no solo funciona, también se entiende.”
