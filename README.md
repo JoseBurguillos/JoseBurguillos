@@ -53,8 +53,8 @@ Seguir mejorando como desarrollador frontend, profundizando en:
 ## 📫 Contacto
 
 - 🌐 Portfolio: https://joseburguillos.vercel.app
-- 💼 LinkedIn: (añade tu enlace aquí)
-- 📧 Email: (tu correo aquí)
+- 💼 LinkedIn: www.linkedin.com/in/josé-burguillos-88834932a
+- 📧 Email: joseab078@gmail.com
 
 ---
 
