@@ -1,72 +1,68 @@
-# 👋 Hola, soy José Burguillos
+<h1 align="center">Hola, soy José Burguillos 👋</h1>
 
-Desarrollador web enfocado en crear interfaces modernas, funcionales y con buena experiencia de usuario.  
-Actualmente también estoy comenzando a explorar el mundo de la **Inteligencia Artificial**.
+<p align="center">
+  <strong>Desarrollador web junior · Soporte IT · Automatización e IA</strong>
+</p>
 
-🌐 Portfolio: https://joseburguillos.vercel.app
+<p align="center">
+  <a href="https://joseburguillos.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/jos%C3%A9-burguillos-88834932a/">LinkedIn</a> ·
+  <a href="mailto:joseab078@gmail.com">Email</a>
+</p>
 
----
+## Sobre mí
 
-## 🚀 Sobre mí
+Soy desarrollador web junior con formación en **Desarrollo de Aplicaciones Web (DAW), modalidad bilingüe**, y en **Sistemas Microinformáticos y Redes (SMR)**.
 
-- 💻 Apasionado del desarrollo web
-- 🎯 Enfocado en crear proyectos limpios y eficientes
-- 🤖 Interesado en el mundo de la Inteligencia Artificial
-- 📚 En constante aprendizaje de nuevas tecnologías
-- ⚡ Me gusta transformar ideas en productos reales
+- Desarrollo aplicaciones con Angular, React, TypeScript, JavaScript, Node.js, Express, C# y APIs REST.
+- Tengo experiencia práctica en soporte IT, helpdesk, mantenimiento de equipos, redes y atención a usuarios.
+- Construyo automatizaciones con n8n, modelos locales con Ollama e integraciones con APIs de IA y servicios cloud.
+- Estoy disponible para oportunidades presenciales, híbridas o remotas y para realizar desplazamientos.
 
----
+## Stack técnico
 
-## 🛠️ Tecnologías
+| Área | Tecnologías |
+| --- | --- |
+| Frontend | Angular, React, TypeScript, JavaScript, HTML5, CSS3 |
+| Backend y APIs | Node.js, Express, C#, Python, APIs REST, JWT |
+| Datos | MongoDB, PostgreSQL, MySQL, SQLite, SQL |
+| Automatización e IA | n8n, Ollama, APIs de IA, WhatsApp Cloud API, FLUX, Cloudflare Workers |
+| Soporte y sistemas | Windows 10/11, Windows Server, Active Directory, Microsoft 365, Linux, LAN/Wi-Fi |
+| Herramientas | Git, GitHub, Docker, Postman, VirtualBox, Cisco Packet Tracer, AnyDesk, TeamViewer |
 
-### Frontend
-- HTML5
-- CSS3 / TailwindCSS
-- JavaScript (ES6+)
-- React
+## Proyectos destacados
 
-### Explorando ahora
-- 🧠 Fundamentos de Inteligencia Artificial
-- 🤖 Modelos de lenguaje (LLMs)
-- 📊 Introducción a Machine Learning
+### 🏗️ [Asistente inteligente para empresas de reformas](https://github.com/JoseBurguillos/Asistente-empresa-de-reformas)
 
-### Herramientas
-- Git & GitHub
-- Vite
-- Vercel
-- VS Code
+Prototipo funcional que automatiza solicitudes recibidas por WhatsApp mediante un flujo de más de 50 nodos en n8n. Integra IA local con Ollama, validación de datos, Google Drive, generación de bocetos con FLUX y un panel Angular para gestionar solicitudes, visitas y presupuestos.
 
----
+`Angular` `Node.js` `Express` `n8n` `Ollama` `SQLite` `JWT` `WhatsApp Cloud API`
 
-## 📌 Proyectos destacados
+### 🐾 [ADOPT-ME](https://github.com/JoseBurguillos/TFG-adoptme) — Proyecto de fin de grado
 
-### 🌐 Portfolio personal
-Mi sitio web donde muestro mis proyectos y habilidades.
+Plataforma de adopción con catálogo de animales, solicitudes, favoritos, mensajería, panel de administración y donativos.
 
-🔗 https://joseburguillos.vercel.app
+`Angular` `TypeScript` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Stripe`
 
----
+### ⏱️ [Sistema de fichaje de empleados](https://github.com/JoseBurguillos/ProgramaFichajeEmpresa)
 
-## 🎯 Objetivo actual
+Aplicación para registrar entradas y salidas con autenticación por token, geolocalización, historial personal y panel de administración.
 
-Seguir creciendo como desarrollador frontend mientras me introduzco en el mundo de la **Inteligencia Artificial**, combinando ambas áreas para construir proyectos más inteligentes e innovadores.
+`Angular` `Python` `SQLite`
 
-Enfoques actuales:
-- Arquitectura de componentes
-- Buenas prácticas de código
-- Optimización de rendimiento
-- Bases de IA aplicada al desarrollo web
+## Experiencia
 
----
+- **Programador web en prácticas · Deuser / Indra Group (2024, 4 meses):** desarrollo y mantenimiento con C#, Angular, Node.js y React; creación e integración de APIs; trabajo con MongoDB, Git y Docker.
+- **Técnico IT en prácticas · Recosur (marzo-junio de 2024, 3 meses):** resolución de incidencias, mantenimiento de equipos y redes, helpdesk, soporte telefónico y tareas con Active Directory.
 
-## 📫 Contacto
+## Formación e idiomas
 
-- 🌐 Portfolio: https://joseburguillos.vercel.app
-- 💼 LinkedIn: www.linkedin.com/in/josé-burguillos-88834932a
-- 📧 Email: joseab078@gmail.com
+- Grado Superior en Desarrollo de Aplicaciones Web, modalidad bilingüe · IES Trassierra · 2024-2026.
+- Grado Medio en Sistemas Microinformáticos y Redes · IES Marqués de Comares · 2022-2024.
+- Español nativo · Inglés B1 · Francés A2.
 
----
+## Contacto
 
-## ⚡ Frase personal
-
-> “No solo quiero construir interfaces, quiero construir sistemas inteligentes.”
+- 📍 Lucena, Córdoba
+- 📧 [joseab078@gmail.com](mailto:joseab078@gmail.com)
+- 🌐 [joseburguillos.vercel.app](https://joseburguillos.vercel.app)
