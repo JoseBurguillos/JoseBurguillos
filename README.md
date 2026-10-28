@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://joseburguillos.vercel.app">Portfolio</a> ·
-  <a href="https://renuevai.netlify.app">renuevAI</a> ·
   <a href="https://www.linkedin.com/in/jos%C3%A9-burguillos-88834932a/">LinkedIn</a> ·
   <a href="mailto:joseab078@gmail.com">Email</a>
 </p>
@@ -19,8 +18,7 @@ Disponible para trabajo presencial, híbrido o remoto, y para desplazamientos.
 
 ## Ahora mismo
 
-Dirijo **[renuevAI](https://renuevai.netlify.app)**, un proyecto de automatización e IA para pymes con base en Lucena (Córdoba): automatización de procesos, asistentes de WhatsApp, herramientas a medida e IA privada.
-Contacto: [renuevai.contacto@gmail.com](mailto:renuevai.contacto@gmail.com)
+Sigo formándome en inteligencia artificial y machine learning.
 
 ## Stack
 
@@ -64,6 +62,5 @@ Idiomas: español nativo, inglés B1, francés A2.
 ## Contacto
 
 - Email: [joseab078@gmail.com](mailto:joseab078@gmail.com)
-- renuevAI: [renuevai.contacto@gmail.com](mailto:renuevai.contacto@gmail.com) · [renuevai.netlify.app](https://renuevai.netlify.app)
 - Portfolio: [joseburguillos.vercel.app](https://joseburguillos.vercel.app)
 - LinkedIn: [José Burguillos](https://www.linkedin.com/in/jos%C3%A9-burguillos-88834932a/)
