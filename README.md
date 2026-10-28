@@ -1,68 +1,69 @@
-<h1 align="center">Hola, soy José Burguillos 👋</h1>
+<h1 align="center">José Burguillos</h1>
 
 <p align="center">
-  <strong>Desarrollador web junior · Soporte IT · Automatización e IA</strong>
+  <strong>Desarrollador web junior · Angular · Node.js · APIs REST · Automatización e IA</strong>
 </p>
 
 <p align="center">
   <a href="https://joseburguillos.vercel.app">Portfolio</a> ·
+  <a href="https://renuevai.netlify.app">renuevAI</a> ·
   <a href="https://www.linkedin.com/in/jos%C3%A9-burguillos-88834932a/">LinkedIn</a> ·
   <a href="mailto:joseab078@gmail.com">Email</a>
 </p>
 
 ## Sobre mí
 
-Soy desarrollador web junior con formación en **Desarrollo de Aplicaciones Web (DAW), modalidad bilingüe**, y en **Sistemas Microinformáticos y Redes (SMR)**.
+Desarrollador web junior de Lucena (Córdoba), con formación en Desarrollo de Aplicaciones Web (DAW, modalidad bilingüe) y en Sistemas Microinformáticos y Redes (SMR). Trabajo con Angular, Node.js, C# y APIs REST, y construyo automatizaciones con n8n, modelos locales con Ollama y servicios serverless con Cloudflare Workers.
 
-- Desarrollo aplicaciones con Angular, React, TypeScript, JavaScript, Node.js, Express, C# y APIs REST.
-- Tengo experiencia práctica en soporte IT, helpdesk, mantenimiento de equipos, redes y atención a usuarios.
-- Construyo automatizaciones con n8n, modelos locales con Ollama e integraciones con APIs de IA y servicios cloud.
-- Estoy disponible para oportunidades presenciales, híbridas o remotas y para realizar desplazamientos.
+Disponible para trabajo presencial, híbrido o remoto, y para desplazamientos.
 
-## Stack técnico
+## Ahora mismo
+
+Dirijo **[renuevAI](https://renuevai.netlify.app)**, un proyecto de automatización e IA para pymes con base en Lucena (Córdoba): automatización de procesos, asistentes de WhatsApp, herramientas a medida e IA privada.
+Contacto: [renuevai.contacto@gmail.com](mailto:renuevai.contacto@gmail.com)
+
+## Stack
 
 | Área | Tecnologías |
 | --- | --- |
 | Frontend | Angular, React, TypeScript, JavaScript, HTML5, CSS3 |
 | Backend y APIs | Node.js, Express, C#, Python, APIs REST, JWT |
-| Datos | MongoDB, PostgreSQL, MySQL, SQLite, SQL |
-| Automatización e IA | n8n, Ollama, APIs de IA, WhatsApp Cloud API, FLUX, Cloudflare Workers |
-| Soporte y sistemas | Windows 10/11, Windows Server, Active Directory, Microsoft 365, Linux, LAN/Wi-Fi |
-| Herramientas | Git, GitHub, Docker, Postman, VirtualBox, Cisco Packet Tracer, AnyDesk, TeamViewer |
+| Bases de datos | MongoDB, SQL, PostgreSQL, MySQL, SQLite |
+| Automatización, IA y cloud | n8n, Ollama, APIs de IA, WhatsApp Cloud API, FLUX, Cloudflare Workers |
+| Sistemas y redes | Windows 10/11, Windows Server, Active Directory, Microsoft 365, Linux, LAN/Wi-Fi |
+| Herramientas | Git, GitHub, Docker, Postman, VirtualBox, Cisco Packet Tracer, Clonezilla |
 
 ## Proyectos destacados
 
-### 🏗️ [Asistente inteligente para empresas de reformas](https://github.com/JoseBurguillos/Asistente-empresa-de-reformas)
+**[Asistente inteligente para empresas de reformas](https://github.com/JoseBurguillos/Asistente-empresa-de-reformas)**
+Prototipo funcional que automatiza solicitudes por WhatsApp Cloud API con IA, gestión del contexto y validación de datos, sobre un flujo de n8n de más de 50 nodos. Integra Google Drive y generación de bocetos con FLUX, y tiene un panel de administración para solicitudes, visitas y presupuestos con autenticación JWT.
+`n8n` `Node.js` `Express` `Angular` `SQLite` `JWT` `WhatsApp Cloud API` `FLUX`
 
-Prototipo funcional que automatiza solicitudes recibidas por WhatsApp mediante un flujo de más de 50 nodos en n8n. Integra IA local con Ollama, validación de datos, Google Drive, generación de bocetos con FLUX y un panel Angular para gestionar solicitudes, visitas y presupuestos.
-
-`Angular` `Node.js` `Express` `n8n` `Ollama` `SQLite` `JWT` `WhatsApp Cloud API`
-
-### 🐾 [ADOPT-ME](https://github.com/JoseBurguillos/TFG-adoptme) — Proyecto de fin de grado
-
-Plataforma de adopción con catálogo de animales, solicitudes, favoritos, mensajería, panel de administración y donativos.
-
+**[ADOPT-ME](https://github.com/JoseBurguillos/TFG-adoptme)** · Proyecto de fin de grado, 2026
+Plataforma de adopción con catálogo, solicitudes, favoritos, mensajería y panel de administración.
 `Angular` `TypeScript` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Stripe`
 
-### ⏱️ [Sistema de fichaje de empleados](https://github.com/JoseBurguillos/ProgramaFichajeEmpresa)
-
-Aplicación para registrar entradas y salidas con autenticación por token, geolocalización, historial personal y panel de administración.
-
+**[Sistema de fichaje de empleados](https://github.com/JoseBurguillos/ProgramaFichajeEmpresa)** · Proyecto personal, 2026
+Registro de entradas y salidas con autenticación por token, geolocalización, historial y panel de administración.
 `Angular` `Python` `SQLite`
 
 ## Experiencia
 
-- **Programador web en prácticas · Deuser / Indra Group (2024, 4 meses):** desarrollo y mantenimiento con C#, Angular, Node.js y React; creación e integración de APIs; trabajo con MongoDB, Git y Docker.
-- **Técnico IT en prácticas · Recosur (marzo-junio de 2024, 3 meses):** resolución de incidencias, mantenimiento de equipos y redes, helpdesk, soporte telefónico y tareas con Active Directory.
+- **Programador web en prácticas** · Deuser / Indra Group · 2024, 4 meses
+  Desarrollo y mantenimiento de aplicaciones con C#, Angular, Node.js y React; creación de APIs y endpoints; MongoDB, Git y Docker.
+- **Técnico IT en prácticas** · Recosur · marzo–junio 2024
+  Incidencias de hardware y software, mantenimiento de equipos y redes, helpdesk y soporte telefónico, Active Directory.
 
-## Formación e idiomas
+## Formación
 
-- Grado Superior en Desarrollo de Aplicaciones Web, modalidad bilingüe · IES Trassierra · 2024-2026.
-- Grado Medio en Sistemas Microinformáticos y Redes · IES Marqués de Comares · 2022-2024.
-- Español nativo · Inglés B1 · Francés A2.
+- Grado Superior en Desarrollo de Aplicaciones Web (bilingüe) · IES Trassierra · 2024–2026
+- Grado Medio en Sistemas Microinformáticos y Redes · IES Marqués de Comares · 2022–2024
+
+Idiomas: español nativo, inglés B1, francés A2.
 
 ## Contacto
 
-- 📍 Lucena, Córdoba
-- 📧 [joseab078@gmail.com](mailto:joseab078@gmail.com)
-- 🌐 [joseburguillos.vercel.app](https://joseburguillos.vercel.app)
+- Email: [joseab078@gmail.com](mailto:joseab078@gmail.com)
+- renuevAI: [renuevai.contacto@gmail.com](mailto:renuevai.contacto@gmail.com) · [renuevai.netlify.app](https://renuevai.netlify.app)
+- Portfolio: [joseburguillos.vercel.app](https://joseburguillos.vercel.app)
+- LinkedIn: [José Burguillos](https://www.linkedin.com/in/jos%C3%A9-burguillos-88834932a/)
